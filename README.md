@@ -1,7 +1,7 @@
 # Debugging NASM Code with GDB
 
 
-![Disassemble_IMG](../Debugging_NASM/images/Disassemble.png) 
+![Disassemble_IMG](images/Disassemble.png) 
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse lobortis lectus in quam blandit, eleifend vehicula felis rutrum. Nulla eget risus a mauris placerat fringilla ut ac velit. Nulla vehicula sit amet diam id efficitur. Nulla vitae faucibus lorem, vel egestas ligula. Nunc imperdiet condimentum eros, in dignissim mauris eleifend eu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi fringilla dolor est, nec posuere magna consequat a.
 
